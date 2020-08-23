@@ -4,7 +4,7 @@ theme = "hugo-theme-codex"
 # Override these settings with your own
 title = "Aman Arora"
 languageCode = "en-us"
-baseURL = "https://arora-aman.github.io"
+baseURL = "/"
 copyright = "© {year}"
 
 # Add your Disqus shortname here.
